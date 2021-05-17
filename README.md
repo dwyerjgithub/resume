@@ -1,6 +1,6 @@
 # resume
-# Hello, welcome to my Github resume repo. 
-# It is simply an easy way to download my resume.
-# You can find a downloadable copy in the main "Code" page/tab/section (ABOVE ^^^^^) 
+# Hello, and welcome to my Github resume repo!
+# This is simply an easy way for me to manage and you to download a current copy of my resume, or other related work items.
+# You can find a downloadable copy in the list of files above ^^^^^
 #Have a great day! 
  
